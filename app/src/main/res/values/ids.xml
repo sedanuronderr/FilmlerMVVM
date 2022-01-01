@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="linearLayout3" type="id" />
+    <item name="rvEpisodes" type="id" />
+    <item name="linearLayout2" type="id" />
+    <item name="rvRecentlyAdded" type="id" />
+</resources>
