@@ -1,5 +1,5 @@
 # FilmlerMVVM
-
+## Mvvm,Retrofit,Fragment,Room,Work Manager,View Binding,Data Binding,Glide Jetpack libraries were used in the project
 
 <table>
    <tr>
